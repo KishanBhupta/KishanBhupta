@@ -1,5 +1,4 @@
 <div align="center">
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kishan-bhupta-368429229/" target="_blank">
@@ -10,23 +9,12 @@
   </a>
 </div>
 
-###
-
 <h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">Kishan Bhupta here from Ahemdabad <br><br>- 📚 Currently learning Mobile App Development <br>- ⚡ I enjoy movies and learn about IT updates in my spare time.</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
@@ -42,6 +30,4 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+/* <h3 align="left">🔥   My Stats :</h3> */
